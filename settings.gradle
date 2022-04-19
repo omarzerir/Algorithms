@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Algorithms"
 include ':app'
+include ':implementation'
+include ':solving'
